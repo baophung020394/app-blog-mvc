@@ -1,5 +1,6 @@
 https://vncoder.vn/php/xay-dung-website-php-theo-mvc
 https://freetuts.net/mvc-php-xay-dung-cau-truc-folder-355.html
+https://tuhoclaptrinh.cachhoc.net/2017/04/06/php-mvc-code-thuan-p13-toi-uu-code/
 http://api-dev.1touch.com.vn/api/v1/
 https://dev.1touch.com.vn/backend/login
 https://dev.1touch.com.vn/
