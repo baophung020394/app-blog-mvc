@@ -4,3 +4,18 @@ http://api-dev.1touch.com.vn/api/v1/
 https://dev.1touch.com.vn/backend/login
 https://dev.1touch.com.vn/
 
+- Tim MVC
+- Xay chuc nang co ban: 
+    + Hien thi danh sach bai viet
+    + Them bai viet
+    + Xoa bai viet
+    + Sua bai viet
+    + Xem chi tiet 1 bai viet
+- Thiet ke CSDL:
+    + 1 bai viet gom:
+        - Tieu de
+        - Noi dung
+        - Thoi gian 
+        - Anh minh hoa
+        - Chuyen muc, tag
+        - id bai viet
