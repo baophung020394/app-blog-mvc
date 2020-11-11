@@ -5,6 +5,9 @@ http://api-dev.1touch.com.vn/api/v1/
 https://dev.1touch.com.vn/backend/login
 https://dev.1touch.com.vn/
 
+composer create-project --prefer-dist laravel/laravel example
+fix loi composer install project: 
+https://stackoverflow.com/questions/43408604/php7-install-ext-dom-issue
 - Tim MVC
 - Xay chuc nang co ban: 
     + Hien thi danh sach bai viet
